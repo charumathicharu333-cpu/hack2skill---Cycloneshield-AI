@@ -1,0 +1,16 @@
+{
+  "id": "demo-bay-001",
+  "name": "Demo Cyclone Varuna",
+  "data_mode": "DEMO",
+  "source": "CycloneShield deterministic demo dataset",
+  "wind_speed_kmh": 118,
+  "pressure_hpa": 972,
+  "movement": "NW at 14 km/h",
+  "track": [
+    [13.1, 88.0, "2026-09-28T04:00:00Z", 74],
+    [14.2, 86.9, "2026-09-28T16:00:00Z", 86],
+    [15.5, 85.6, "2026-09-29T04:00:00Z", 104],
+    [16.8, 84.2, "2026-09-29T10:30:00Z", 118]
+  ],
+  "forecast_note": "Prototype path only; not an official weather warning or operational forecast."
+}

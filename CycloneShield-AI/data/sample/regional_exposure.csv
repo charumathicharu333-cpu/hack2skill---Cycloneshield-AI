@@ -1,0 +1,4 @@
+region_id,region_name,state,latitude,longitude,population_exposure,elevation_m,coastal_exposure,rainfall_exposure,wind_exposure
+visakhapatnam,Visakhapatnam Coast,Andhra Pradesh,17.69,83.22,78,18,82,65,76
+kakinada,Kakinada Coast,Andhra Pradesh,16.99,82.25,64,9,90,69,72
+chennai,Chennai Coast,Tamil Nadu,13.08,80.27,92,7,73,58,42
